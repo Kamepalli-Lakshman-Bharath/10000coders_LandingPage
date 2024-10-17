@@ -1,0 +1,21 @@
+.profile1 {
+  background: radial-gradient(
+    42.17% 42.17% at 49.91% 57.83%,
+    rgba(255, 255, 255, 0.29) 0%,
+    #3a8bc6 100%
+  );
+}
+.profile2 {
+  background: radial-gradient(
+    42.17% 42.17% at 49.91% 57.83%,
+    rgba(255, 255, 255, 0) 0%,
+    #ff9999 100%
+  );
+}
+.profile3 {
+  background: radial-gradient(
+    42.17% 42.17% at 49.91% 57.83%,
+    rgba(255, 255, 255, 0) 0%,
+    #8ed67c 100%
+  );
+}

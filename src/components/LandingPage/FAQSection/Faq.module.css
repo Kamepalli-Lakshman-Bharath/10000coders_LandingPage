@@ -1,0 +1,15 @@
+.box_shadow {
+  box-shadow: 4.69px 4.69px 0px 0px #000000;
+}
+
+@media screen and (width>=1024px) {
+  .box_shadow {
+    box-shadow: 6.25px 6.25px 0px 0px #000000;
+  }
+}
+
+@media screen and (width>=1280px) {
+  .box_shadow {
+    box-shadow: 6.87px 6.87px 0px 0px #000000;
+  }
+}

@@ -1,0 +1,51 @@
+.boxShadow {
+  box-shadow: 3.06px 3.06px 0px 0px #000000;
+}
+.boxShadow2 {
+  box-shadow: 4.69px 4.69px 0px 0px #000000;
+}
+.line_clr {
+  border-image-source: linear-gradient(90deg, #f46b45 0%, #eea849 100%);
+  border-image-slice: 1;
+}
+.week_border {
+  border-image-source: linear-gradient(90deg, #f46b45 0%, #eea849 100%);
+  border-image-slice: 1;
+  border-width: 3px;
+  border-radius: 15px;
+}
+.course_text {
+  background: linear-gradient(90deg, #f46b45 0%, #eea849 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.placements_text {
+  background: linear-gradient(90deg, #e84975 0%, #ff8541 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.line_bg_clr {
+  background: #eea849;
+}
+@media screen and (width>=640px) and (width<768px) {
+  .boxShadow {
+    box-shadow: 5.46px 5.46px 0px 0px #000000;
+  }
+}
+@media screen and (width>=768px) and (width<1024px) {
+  .boxShadow {
+    box-shadow: 5.46px 5.46px 0px 0px #000000;
+  }
+}
+@media screen and (width>=640px) and (width<1280px) {
+  .boxShadow {
+    box-shadow: 7.28px 7.28px 0px 0px #000000;
+  }
+}
+@media screen and (width>1280px) and (width<1536px) {
+  .boxShadow {
+    box-shadow: 8.2px 8.2px 0px 0px #000000;
+  }
+}

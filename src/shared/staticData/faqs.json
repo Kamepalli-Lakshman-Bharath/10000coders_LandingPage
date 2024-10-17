@@ -1,0 +1,45 @@
+{
+  "faq": [
+    {
+      "question": "What is 10000 coders?",
+      "answer": "10000 coders is your go-to spot for learning web development in a fun and engaging way. Whether you’re just dipping your toes into coding or you’re looking to level up your skills, we’ve got you covered. Our platform offers interactive courses, hands-on projects, and tips from industry pros to help you master the skills you need for a successful tech career. Dive in, and let’s start coding!"
+    },
+    {
+      "question": "Who is 10000 coders for ?",
+      "answer": "10000 coders is perfect for anyone eager to dive into web development! Whether you’re just a student aiming to enhance your skills, or a professional wanting to stay on top of the latest tech trends, we’ve got something for you. If you’re excited about learning, building real projects, and getting tips from experts, you’re going to love it here!"
+    },
+    {
+      "question": "What types of courses do you offer ?",
+      "answer": "We offer a variety of courses covering different aspects of web development, including HTML, CSS, JavaScript, front-end frameworks, back-end development, and full-stack development. Our courses range from introductory to advanced levels. Check out our catalog and find the course that’s right for you!"
+    },
+    {
+      "question": "Are your courses self-paced or live ?",
+      "answer": "We’ve got you covered with both self-paced courses and live classes! If you prefer to learn at your speed, our self-paced courses let you study whenever and wherever you like. For those who thrive on real-time interaction, our live classes offer direct access to instructors and a chance to engage with fellow learners."
+    },
+    {
+      "question": "What is the duration of your courses ?",
+      "answer": "The duration of our courses varies depending on the content and depth of the material. Our self-paced courses are designed to be completed over several weeks to a few months, while live classes usually follow a set schedule."
+    },
+    {
+      "question": "Do you provide certificates upon course completion ?",
+      "answer": "Yes, we provide certificates of completion for all of our courses. These certificates can be a valuable addition to your resume or LinkedIn profile."
+    },
+    {
+      "question": "Can I access course materials after completing a course ?",
+      "answer": "Yes, once you complete a course, you will still have access to the materials and resources provided, so you can review them as needed."
+    },
+    {
+      "question": "What technical requirements are needed to use our platform ?",
+      "answer": "Our platform is web-based, so you'll need a modern web browser (such as Chrome, Firefox, or Edge) and a stable internet connection."
+    },
+    {
+      "question": "Do you offer any discounts or financial aid ?",
+      "answer": "We occasionally offer discounts, promotions, or financial aid options. Keep an eye on our website or visit our campus to know more!"
+    },
+    {
+      "contact": true,
+      "question": "How can I contact your support team?",
+      "answer": "You can reach out to us anytime on 6305693431, visit our campus directly or you can fill out the subscription form our student executive will reach out to you."
+    }
+  ]
+}

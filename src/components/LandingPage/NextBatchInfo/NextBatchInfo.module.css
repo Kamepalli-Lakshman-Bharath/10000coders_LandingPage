@@ -1,0 +1,7 @@
+.background {
+  background:
+    url("/nextbatch_images/bg_image.png") no-repeat center top,
+    radial-gradient(circle at right, #156b56 0%, #15254f 100%);
+  background-size: cover;
+  box-shadow: 0px 4.04px 4.04px 0px #00000040;
+}

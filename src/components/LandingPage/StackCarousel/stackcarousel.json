@@ -1,0 +1,84 @@
+{
+  "studentData": [
+    {
+      "pp": "/carousel_images/image7.png",
+      "ppBlack": "/carousel_images/image7_black.png",
+      "stdName": "Shashi",
+      "video": "ILrcWspT-Sg",
+      "id": 6,
+      "role": "Backend Developer",
+      "company": "TVAST COMPANY",
+      "message": "“10000 Coders was different from other institutes because takes care of each person”"
+    },
+    {
+      "pp": "/carousel_images/image1.png",
+      "ppBlack": "/carousel_images/image1_black.png",
+      "stdName": "Sai Krishna",
+      "video": "YsG75kW_iqU",
+      "id": 1,
+      "role": "React Developer",
+      "company": "McKinleyrice",
+      "message": "“10000 coders team made my dream true ”"
+    },
+    {
+      "pp": "/carousel_images/image2.png",
+      "ppBlack": "/carousel_images/image2_black.png",
+      "stdName": "Bhavya Sri",
+      "video": "OplUOGAyZLw",
+      "id": 2,
+      "role": "STIC Soft",
+      "company": "Bilavantis",
+      "message": "“10000 coders is the best path to choose your career”"
+    },
+    {
+      "pp": "/carousel_images/image3.png",
+      "ppBlack": "/carousel_images/image3_black.png",
+      "stdName": "Amruthavalli",
+      "video": "UE_NNZq8xJA",
+      "id": 3,
+      "role": "Full Stack Developer ",
+      "company": "aggne",
+      "message": "“Overcoming rejections, I gained confidence and secured a job at 10000 Coders.”"
+    },
+    {
+      "pp": "/carousel_images/image4.png",
+      "ppBlack": "/carousel_images/image4_black.png",
+      "stdName": "Deepthi",
+      "video": "bcDIwaF0a1Y",
+      "id": 4,
+      "role": "Software Developer",
+      "company": "Hetero",
+      "message": "“Career gap, non-IT background—10000 Coders made IT entry possible.”"
+    },
+    {
+      "pp": "/carousel_images/image6.png",
+      "ppBlack": "/carousel_images/image6_black.png",
+      "stdName": "Ganesh Asil",
+      "video": "YV6tdmkmQcE",
+      "id": 5,
+      "role": "Software Developer",
+      "company": "Uno Career",
+      "message": "“I left my support engineer job to pursue a developer role at 10000 Coders.”"
+    },
+    {
+      "pp": "/carousel_images/image8.png",
+      "ppBlack": "/carousel_images/image8_black.png",
+      "stdName": "Madhuri",
+      "video": "pXci30pBre4",
+      "id": 7,
+      "role": "Backend Developer",
+      "company": "TVAST COMPANY",
+      "message": "“10000 Coders was the right first step toward my Dream Job”"
+    },
+    {
+      "pp": "/carousel_images/image9.png",
+      "ppBlack": "/carousel_images/image9_black.png",
+      "stdName": "Nandhini",
+      "video": "Yc6rRuFuYuU",
+      "id": 8,
+      "role": "Software Developer",
+      "company": "aggne",
+      "message": "“Recruiters prioritize technical skills, Communication and Presentation for Job candidates.”"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.bg_image {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(255, 199, 115, 0.5) 0%,
+    rgba(249, 185, 255, 0.25) 50%,
+    rgba(255, 220, 220, 0.125) 75%,
+    #ffffff00 100%
+  );
+}
+.animateX {
+  animation: scrollX 20s linear infinite;
+}
+
+@keyframes scrollX {
+  from {
+    left: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
